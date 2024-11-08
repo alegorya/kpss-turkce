@@ -1,0 +1,94 @@
+ANLATIM BOZUKLUĞU - 2
+### Bu kısımda dil bilgisi kısmı anlatılacak
+sadece öğeler kısmı anlatılacak.
+
+    * dil bilgisi ile ilgili bozukluklar
+        ** CÜMLENİN ÖĞELERİ
+        iki ayrı cümle var. ikisinde de ayrı ayrı öğeler var. bu öğelerin düşüp de anlatım bozukluklarına sebep olma tablosu aşağıdaki gibidir.
+
+            Ö - Ö (a durumu)
+            Y - Y
+            N - N
+            DT - N
+            N - DT 
+            DT - DT 
+
+            1) özne yanlışları (a durumu)
+                
+                *** babamın hastalığı bu hafta geçecekti ve özgürce evine dönecekti. (yanlış)
+                    
+                    geçecek olan ne/kim?
+                    özne: babamın hastalığı 
+                    
+                    eve dönecek olan kim/ne?
+                        babamın hastalığı
+
+                *** hiçbiri beni savunmadı, ifade değişikliği yaptı. (yanlış)
+
+                    savunmayan kim/ne?
+                    özne: hiçbiri 
+
+                    ifade değişikliği yapan kim/ne?
+                        hiçbiri 
+
+                *** enerjisi hızla düştü ve oturacak yer aradı. (yanlış)
+
+                    düşen kim/ne?
+                    özne: enerjisi 
+
+                    yer arayan kim/ne?
+                        enerjisi 
+
+            2) yüklem yanlışları
+                
+                *** ne siz beni çağırdınız ne de ben sizi. (çağırdınız?)
+
+                *** çocuklar arkadaşları ile vakit geçirmeyi çok (sevmiyor?), ödev yapmayı hiç sevmiyor.
+
+                *** arabaya binmeden saatini (giydi?) ve yeleğini giydi hızlıca.
+
+            3) nesne yanlışları
+
+                ** nesne - nesne yanlışları 
+
+                    *** kitabın etkileyici kapağını gördüm bu yüzden okumak istiyorum
+
+                        kitabın etkileyici kapağını gördüm bu yüzden (kitabı) okumak istiyorum
+
+                    *** salça kavanozunu tezgaha koydu, ardından tabağa döktü.
+
+                        salça kavanozunu tezgaha koydu, ardından (salçayı) tabağa döktü.
+
+                
+                ** DT - N yanlışları 
+                (nesne eksikliği)
+
+                    *** topluma bu pencereden bakmak, bu gözle ele olmak istedim
+
+                        topluma bu pencereden bakmak, (toplumu) bu gözle ele olmak istedim
+
+                    *** velilere sadece müdür bilgi verir ve görüşmeye çağırır.
+
+                        velilere sadece müdür bilgi verir ve (velileri) görüşmeye çağırır.
+
+            4) dolaylı tümleç yanlışları 
+
+                ** DT - DT yanlışları
+
+                    *** cevaba yaklaşıyor muyum yoksa uzaklaşıyor muyum bilmiyorum.
+
+                        cevaba yaklaşıyor muyum yoksa (cevaptan)
+                        uzaklaşıyor muyum bilmiyorum.
+
+                    *** yıllar önce Sinop'a gittim ve yedi sene kaldım.
+
+                        yıllar önce Sinop'a gittim ve (Sinop'ta)yedi sene kaldım.
+
+                ** N - DT yanlışları
+
+                    *** teknolojiyi takip ediyor, adeta bağımlı yaşıyordu.
+
+                        teknolojiyi takip ediyor, adeta (teknolojiye) bağımlı yaşıyordu.
+
+                    
+

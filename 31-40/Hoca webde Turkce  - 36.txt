@@ -1,0 +1,122 @@
+PARAGRAF - 2
+
+    # DÜŞÜNCEYİ GELİŞTİRME YOLLARI
+
+        1) tanık gösterme
+            ünlü birinin bir sözü olmalı
+                ANCAK:
+
+                    "...'nın da dediği gibi.."
+                
+                    "bana inanmıyorsanız ona inanın"
+
+                şeklinde olmalı 
+
+        2) örneklendirme
+            mesela, örneğin, söz gelimi...
+        
+
+        ## tanık gösterme ve örneklendirme çok karıştırılır. dikkat et
+
+        ## tanık göstermede illaki tırnak işareti arama:
+            
+            bilim insanlığın en temel destekçisidir, diyor Einstein.
+
+        ## her tırnağı da amcan sanma:
+
+            Orhan pamuk'un "kara kitap" adlı eserini oku.
+
+
+
+        3) sayısal verilerden yararlanma
+            metin içerisinde YAZIYLA yazılıp sayısal veri sunulmuş olabilir.
+
+                sanayi devrimi ile kırsal kesimdeki işçilerin yüzde yirmisi şehre göç etmiştir.
+                       
+        4) benzetme
+            bir kavramın yahut bir varlığın başka bir kavram ya da varlığa ait özelliklerle anlatılması, ifade edilmesidir.
+
+                sabun köpüğü gibi olur hayallerim.
+
+        5) tanımlama
+            tanımlama tek bir cümleden oluşur. "nedir?" sorusunun cevabıdır,  öznel olabilir.
+
+                sanat, ruhun bedenden kurtuluşudur. (sanat nedir? +)
+
+                özne, cümledeki işi gerçekleştirme görevini üstlenmiştir. (özne nedir? -)
+
+                    bu cümle tanım değildir.
+          
+        6) karşılaştırma
+
+            bir cümlede de olabilir, bütün metine de yayılabilir.
+
+            en, daha, ziyade... kelimeleri kullanılabilir. 
+
+        7) kişileştirme
+
+            insana ait özelliklerin insan dışı varlıklara vermedir
+
+    # ANLATIM İLE İLGİLİ ÖZELLİKLER 
+        ## ÖNEMLİ
+            ösym bizden bir parçayı baştan sona okuyup da değerlendirmemizi istemez. bazı anahtar kelimeler vardır. ösym bu anahtar kelimeleri farkedip farketmediğimizi test eder.
+
+        ## ÖNEMLİ
+                birbirine karışan "açıklık", "duruluk" ve "yalınlık" özelliklerindeki anahtar kelimelere dikkat et.  
+
+        1) açıklık
+            Sözün "tek ve net bir anlam" vermesidir
+
+        2) duruluk
+            anlatımda "gereksiz ve işlevsiz sözcük" bulunmamasıdır.
+
+                 bu usta kalem yazmaya başladığında kafasından geçenleri (**işlevsiz herhangi**) bir sözcüğe yer vermeden dile getirir.
+                    burada duruluk var.
+
+        3) yalınlık
+            anlatımın "süsten, edebilikten, söz sanatlarından uzak" olmasıdır.
+
+                onlar toplumsal olaylardan, siyasetten ve (**süslü söyleyişlerden, şairenelikten uzak**) durdular.
+
+                    burada yalınlık var.
+
+        ## ÖNEMLİ
+
+            birbirine karışan "açıklık", "duruluk" ve "yalınlık" özelliklerindeki anahtar kelimelere dikkat et.
+
+        4) akıcılık
+            "dilin pürüzsüz bir şekilde dilbilgisi kurallarına uygun" kullanılmasıdır.
+
+
+        5) sürükleyicilik
+            "merak ve heyecanın" ön planda tutulmasıdır.
+
+        6) doğallık
+            anlatımın "yapaylıktan uzak, halktaki gibi" içten olmasıdır.
+
+                (anadolu halkının) dertlerine de sevinçlerine de tanık olmuştu, eserlerini de buna göre şekillendirmişti.
+                    burada "doğallık" var.
+
+
+
+        7) yoğunluk
+            anlatımın "kat kat anlamlar içermesi, her okuyuşta farklı" duygular uyandırmasıdır.
+
+
+        8) özlülük
+            "az sözle çok şey" anlatılmasıdır.
+
+
+        9) özgünlük
+            "benzerlerinden ayrılan, kopya, taklit, alıntı olmayan" anlatımdır.
+
+    # SORU ÇÖZÜMÜ
+        içten - doğallık
+        kelime oyunlarında aramaz - yalınlık
+        net şekilde ortaya koymak - açıklık
+        büyülü heyecan - sürükleyicilik
+        kazıdıkça yeni anlamlar - yoğunluk
+        sanata, süse kaçmadan - yalınlık
+        
+
+    

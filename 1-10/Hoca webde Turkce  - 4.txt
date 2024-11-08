@@ -1,0 +1,35 @@
+Eylemde çatı
+
+    İsim cümlelerinde çatı aranmaz
+
+        bozuktu bugün pazardan aldığım elmalar
+
+    isim fiil eki alan sözcükler artık isimleşmişlerdir. çatı aranmaz
+
+    eylemde çatıda önce yükleme sonra nesneye bakılır
+
+
+    yüklemi 4 kısımda göreceğiz:
+
+        * etken
+        * edilgen
+        * işteş
+        * dönüşlü
+
+    nesneyi 4 kısımda göreceğiz:
+
+        * geçişli
+        * geçişsiz
+        * ettirgen
+        * oldurgan
+
+
+    yüklemden sonra özme bulunur ancak edilgen cümlelerde 
+özne bulunamaz. ama özne bulunmaz ise öteki öğelerin
+bulunmasına geçilemez. o zaman biz bu cümlelerde nesneye 
+"sözde özne" deriz
+
+    işte burada "o işi yapan kim/ne?" sorusu yerine "ne/kim" sorusunu sorarız
+
+
+

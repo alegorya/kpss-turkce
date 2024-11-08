@@ -1,0 +1,90 @@
+PARAGRAF - 3
+
+# ANA DÜŞÜNCE
+
+    ## parçanın yazılış amacıdır. yazarın okuyucuya ulaştırmak istediği mesajdır.
+    parçadaki en kapsamlı yargıdır.
+
+    ## ana düşünce cümlesi kısa, açık ve özlü bir cümledir. parçanın bir cümlelik özetidir.
+
+        ### şu şekilde sorulur:
+
+            - hangisi vurgulanmıştır.
+            - yazarın asıl söylemek istediği
+            - hangisi çıkarılabilir
+            - paragrafın yazılış amacı nedir?
+
+
+
+    ## ÖNEMLİ
+
+        paragraf için 4 taktik var:
+
+        1) tümdengelim - tümavarım
+
+              /\  --> parça özelden başlarsa
+             /  \
+            /    \
+           /______\  --> ve parça genelleme ile biterse parçanın ana fikri sondadır.
+
+            bu üçgen ters de olabilir. bu durumda da ana fikir üçgenin tabanındadır. 
+
+
+                petrol dünyadaki en değerli varlıktır. ortadoğu'da çok vardır. türkiyede de vardır. doğu anadolunun batmanında da çıkarılır.
+
+                    bu parça genelden özele gidiyor. parçanın ana fikri ilk cümledir:
+                    "petrol dünyadaki en değerli varlıktır"
+
+                ama tabi her parça genişleme veya daralma göstermeyebilir. o zaman öteki taktiklere bakılır.
+
+        2) Anahtar Kelimeler
+
+            kısacası
+            aslında
+            bu yüzden
+            dolayısıyla
+            özetle
+            başka ifade ile
+            ...
+
+                bu kelimeler varsa parçanın ana düşüncesi o cümledir.
+
+        3) Örnekleme Olan Cümleler
+
+            örneklemenin kullanıldığı parçalarda "ana düşünce" örnekten önceki cümlede aranmalıdır.
+
+        4) Tanık Gösterme Cümleleri
+
+            tanık göstermenin kullanıldığı parçalarda "ana düşünce" alıntılarda aranmalıdır.
+
+# PARAGRAFTA KONU
+
+    paragrafta ele alınan düşünce, olay ya da durumdur. konuyu bulmak için "bu yazının içeriği nedir?", "yazar bu parçada ne anlatıyor?" gibi sorular yöneltilebilir.
+
+    * konu içeren ifadeler yargı bildirmez.
+
+        ** parçanın konusu hangisidir?
+        ** parçada üzerinde durulan hangisidir?
+        ** parçada hangisinden yakınılmaktadır?
+        ** hangi sorunun cevabı verilmiştir?
+    
+    ## yazar önce taşıyıcı kolonları yerleştirir, sonra sütunlar arasında bağlantılar kurulur.
+
+        haldır haldır paragrafı okumaya girişmektense bu taşıyıcı kolonları bulmaya çalış.
+
+            okyanuslar
+            canlı yaşamı
+            sıcak su bacası
+
+                bunlar taşıyıcı kolonlardır.
+                zaten sorunun cevabı:
+                    "sıcak su bacalarının canlı yaşamına etkisi" idi.
+
+            türk romanı ilk döneminde
+            1960'larda
+            1980'lerde
+
+                bu sorunun cevabı "türk romanının tarihsel değişimi" idi.
+
+            
+

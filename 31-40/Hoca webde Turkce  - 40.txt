@@ -1,0 +1,20 @@
+PARAGRAF - 6
+
+# YER DEĞİŞTİRME
+
+    ## numaralı cümlelerin başlangıç kelimeleri dikkate alınmalıdır.
+
+    ## bağlayıcı unsurlar, kendinden önceki cümleyi işaret eden sözcükler takip edilmelidir.
+
+    ## seçeneklerin kullanılması hem zaman kazandırır hem doğru yanıtın bulunmasını kolaylaştırır.
+
+    ## yer değiştirmesi mümkün olmayan (sabit olan) cümleler tespit edilmelidir.
+
+
+    ## bir cümlede "şimşek çakar" diyor, başka bir cümlede "o anda" diyor. bu ikisi birlikte olabilir.
+
+
+# PARAGRAF OLUŞTURMA
+
+    ## önce giriş cümlesi bulunmalı
+

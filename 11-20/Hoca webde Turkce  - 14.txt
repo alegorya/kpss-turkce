@@ -1,0 +1,168 @@
+EYLEMLER - 1
+
+KİPLER çekim ekleridir
+
+
+    Bildirme (haber) kipi
+        1) şimdiki zaman
+
+        2) gelecek zaman
+
+        3)geniş zaman
+
+        4) bilinen - görülen geçmiş zaman
+
+        5) duyulan - öğrenilen geçmiş zaman
+
+
+    Dilek kipi
+        1) gereklilik 
+            meli malı
+        2) istek 
+            -e -a
+        3)dilek - koşul kipi
+            -se -sa
+        4)emir
+            ben ve biz kısmı yoktur
+
+
+        *** BU ÖNEMLİ
+
+        elindeki kitabı okumalı(2) ve vermelisin
+        
+        2 numaralı sözcükte dilek kipi kullanılmıştır.
+
+            bu ifade doğrudur. çünkü "dilek kipi" üst başlıktır. dilek kipinin altında "dilek-koşul kipi" de vardır, "gereklilik kipi" de vardır.
+
+    
+        *** Basit çekimli eylem
+        bir tane kip eki alan eylem anlamına gelir.
+            örn:
+
+            geldi
+            gelmiş
+            gel
+            geliyor
+
+
+        *** her -dı -mış -se gördüğümüzde atlamıyoruz
+
+        güzeldi
+        iyiymiş
+            buralarda ek eylem var, kip ekleri değil bunlar
+    
+        *** Birleşik çekimli eylem
+        iki kip eki alıyor 
+
+            1) hikaye birleşik çekim
+
+                X + "-dı"
+
+                    içiyordu
+
+            2) rivayet birleşik çekim
+
+                X + "-mış"
+
+                    inermiş
+
+            3) koşul birleşik çekim
+
+                X + "-sa"
+
+                    eklemeliyse
+
+
+Bileşik Eylem 
+
+    A) kurallı bileşik eylem
+
+        1) yeterlilik
+            e bilmek
+                çözebilir
+        2) tezlik
+            i vermek
+                atıvermiş
+        3) sürerlilik
+            e kalmak, e durmak, e gelmek
+                bakakaldı, yazadurun, söylenegelmiş
+
+        4) yaklaşma
+            e yazmak
+                düşeyazdı, boğulayazdı
+    
+
+    *** ÖRNEKLER:
+
+        geldi
+            basit çekimli eylem
+
+        geliyordu
+            bileşik çekimli eylem
+
+        gelebildi
+            bileşik eylem
+            basit çekimli eylem
+
+        gelebilmişti
+            bileşik eylem
+            bileşik çekimli eylem
+  
+    *** ÖNEMLİ
+
+        yeterlilik bileşik eyleminin olumsuzu
+
+            kaldırabilir
+            kaldırabilemez
+            kaldıramaz
+
+            dön ebilir
+            dön ebil emez
+            dön e mez 
+
+            uçur a bilir
+            uçur a bil emez
+            uçar a maz
+
+            sat a bilir
+            sat a bil emez
+            sat a maz
+
+        geniş zamanın olumsuzu
+
+            kaldırır
+            kaldırmaz
+
+            döner
+            dönmez
+
+            uçurur
+            uçurmaz
+
+            satar
+            satmaz
+
+
+    B) yardımcı bileşik eylem
+        etmek
+        eylemek
+        kılmak
+        olmak
+        buyur
+
+        *** bir ses olayı yoksa ayrı yazılır
+     
+
+    C) Anlamca kaynaşmış bileşik eylem (deyim)
+
+        el açmak, ayak diremek, yorgun düşmek, bıyun bükmek vb.
+
+
+
+**** Cümlenin öğelerinde bölünemezler
+
+    isim tamlamaları
+    sıfat tamlamaları
+    yardımcı eylem
+    deyimler
+

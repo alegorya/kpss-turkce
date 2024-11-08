@@ -1,0 +1,13 @@
+Önce yüklem bulunur sonra özne:
+
+özneyi bulurken 
+
+"O işi yapan kim?"
+"O işi yapan ne?"
+
+hal eklerine göre;
+
+belirt i li nesne, belirt i siz nesne
+
+e, de, den ekleri dolaylı tümleç demektir
+

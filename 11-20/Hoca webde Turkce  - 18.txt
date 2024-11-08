@@ -1,0 +1,154 @@
+NOKTALAMA İŞARETLERİ - 1
+    
+    Nokta 
+        *** kısaltmaların sonunda kullanılır
+            dr. cad. s. prof. yy. vb. ing. alm.
+        
+        *** büyük harflerle yapılan kısaltmalarda nokta kullanılmaz
+
+            "T.C." hariç
+
+            ADÜ
+            DSİ
+            AİHM
+            PTT
+            AÖF
+            TRT
+            TEMA
+            MÖ
+            MS
+            TBMM
+        
+        *** arka arkaya sıralanan virgülle veya çizgiyle ayrılan rakamlarda yalnızca sonda nokta konur.
+            1,2 ve 3. yarışmacılar
+            XII - XIII. yüzyıllar arasında
+
+        *** tarihlerin yazılışında kullanılır.
+            18.05.1994
+        *** saatlerde kullanılır
+            11.45
+        
+        *** ölçü ve tartı birimlerinin sonuna nokta konmaz.
+            km'de
+            cm'si
+            kg'ı
+
+    VİRGÜL
+        * eş görevli kelimeler ve kelime grupları
+            üzüm, muz canı çekiyor
+        * sıralı cümleleri ayırmak için
+            çekmeceyi açtı, defteri eline aldı, öfkeyle yüzüme baktı.
+        * ara sözlerin veya cümlelerin başına ve sonuna konur.
+            manisa'da, doğduğum yerde, yapılacak etkinlikler.
+        * tırnak içinde olmayan alıntı cümlelerin sonuna konur
+            yaptığına pişman olacaksın, dedi
+        
+        *** metin içindeki tek zarf-fiil varsa virgül kullanılmaz.
+            yüzüne bakıp uyumak istiyorum
+
+            gelip, elimi tutup ağladı
+            
+        *** metin içindeki tek şart ekinden sonra virgül kullanılmaz.
+
+            sana kızarsa beni ara.
+
+            dünya değişirse, barış olursa gülebilirim.
+
+        *** ikilemelerin arasında, tek isim tamlaması ve tek sıfat tamlamasının arasında kullanılmaz.
+
+            hava ağır, ağır kararıyor.
+                virgül yanlış
+
+            yorgun gözler kapandı.
+                virgül yanlış
+
+            mavi, gözler kapandı.
+                virgül yanlış
+
+            ### yorgun, mavi gözler kapandı.
+                virgül doğru
+
+        *** bağlaçlardan ve tekrarlı bağlaçlardan önce ve sonra virgül konmaz.
+
+            ne siyasetten, ne ticaretten anlarım.
+                virgül yanlış
+
+            biberleri ve, domatesleri doğra
+                virgül yanlış
+            
+            ya istiklal ya ölüm
+            hem annesi hem babası
+        
+        *** metin içindeki -ınca, -ince anlamıyla zarf fiil görevinde kullanılan "mi" den sonra virgül kullanılmaz.
+
+            hırslandı mı, her şeyi başarır
+                virgül yanlış
+            öfkelendi mi küfrederdi.
+                virgül olmaması doğru
+
+
+    NOKTALI VİRGÜL ;
+
+        *** noktalı virgülden önce ve/veya sonra virgül kullanılır.
+
+        cümleyi bitiren bir noktalama işareti değildir.
+
+        noktalı virgül, anlam kümelerini bölen, demektir.
+
+        * cümle içindeki virgüller ile ayrılmış takımları birbirinden ayırmak için konur.
+            
+            kız isimlerinden Hülya, Nermin; erkek isimlerinden Tarık, Levent hoşuma gidiyor.
+
+                burada noktalı virgül doğru
+
+        *** noktalı virgülü kullanmak için virgüllerin şişmesi gerekiyor.
+
+            biletler yaşlılara, askerlere ücretsiz; öğrencilere indirimli dağıtıldı.
+
+                noktalı virgül doğru
+        
+        *** öğeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için kullanılır.
+
+            at ölür, meydan kalır; yiğit ölür şan kalır.
+
+            kel ölür, sırma saçlı olur; kör ölür, badem gözlü olur.
+
+        *** özneden sonraki eş değer ögelerde virgül kullanıldığında özneden sonra konulabilir.
+            
+            bu adam; zeki, azimli, ahlaklıydı.
+
+        ### bağlaçlardan önce (ama, fakat, çünkü, ancak vb.) noktalı virgül kullanılmaz.
+    
+
+
+    İKİ NOKTA 
+
+    *** iki nokta ya örnekte ya açıklamada kullanılır.
+    
+
+        *** kendisiyle ilgili örnek verilecek cümlenin sonuna konur.
+
+            çöpten topladıklarımız: ekmek, armut, portakal...
+
+            zamirler ismin yerini tutan sözcüklerdir: ben, sen, o...
+
+            ### önemli
+                eylemsiler 3'e ayrılır: isim-fiil, sıfat-fiil, zarf-fiil...
+                    bu örnekte "..." yanlıştır. örnek sayısı belli ve 3'tür. üç nokta gelmemelidir, nokta gelmelidir.
+
+
+        *** kendisiyle ilgili açıklama verilecek cümlenin sonuna konur.
+        burada cümle büyük harfle başlar.
+
+            tek yol vardı: Konuşmak
+
+            kendimi tanıtayım: Müdürünüz
+
+            soru soranlar şunu bilmeli: Cevap sizi asla tatmin etmeyecek.
+
+
+
+
+
+
+            

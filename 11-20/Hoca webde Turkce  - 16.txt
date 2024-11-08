@@ -1,0 +1,124 @@
+CÜMLE TÜRLERİ - 1
+    A) TÜR BAKIMINDAN
+
+        ### Doğrudan alakalı değil aşağıdaki notlar
+            *** "kökü tür bakımından..." denirse;
+                fiil mi isim mi buna bakıyoruz
+            *** "yapı bakımından..." denirse;
+                basit, türemiş, bileşik mi buna bakıyoruz
+            *** "sözcüğün türü bakımından..." denirse;
+                isim, sıfat, zamir, zarf, edat, bağlaç mı, bunlara bakıyoruz.
+        
+        1) isim cümlesi 
+
+            yüklemi isim olan cümlelerdir, çatı aranmaz
+
+                o film uzunmuş
+                başaramadığım şey yaşamaktı.
+
+        2) fiil cümlesi
+
+            yüklemi fiil olan cümlelerdir.
+                çocuklar parkta oynadı
+        
+        *** cümledeki yüklemin son haline bakılır. ne demek istiyoruz?
+
+            ağaçlar çiçeklendi.
+                bu fiil cümlesidir, çünkü yüklem "çiçeklen-" fiilidir.
+                bu fiilin "çiçek" kelimesinden türemesi burada önemli değildir.
+        
+
+    B) YER BAKIMINDAN
+
+        1)Kurallı(düz) cümle
+            yüklem sonda
+        2) devrik cümle
+            yüklem sonda değil
+        3) eksiltili cümle 
+            yüklemi yok
+        
+        *** buradaki soru şuradan geliyor
+
+            zamanımı çalan en büyük icat telefon.
+                burada cümle eksiltili değil, telefon kelimesi yüklemdir, ek eylem düşmüştür ama hala yüklemdir. eksiltili değildir.
+            
+
+    C) ANLAM BAKIMINDAN
+        1) ünlem cümlesi
+            aferin, sözünü tutmuşsun
+        2) soru cümlesi
+            ne dediğimi anlıyor musun?
+
+            *** sözde soru cümlesi
+                yanıt gerektirmeyen
+                    bir kadınla böyle kaba konuşulur mu?
+        3) olumlu cümle 
+            gerçekleşti, gerçekleşiyor, gerçekleşiyor
+                kızın başı koptu
+                insanlar yanarak öldü
+                barajlar boştu
+                sesi berbattı
+                yemek iğrençti
+                       
+        4) olumsuz cümle
+            -me, -mez, -sız, değil, yok 
+                kızın başı kopmadı
+                içeride insan yoktu
+                doğru değilmiş
+                hiç uyumadı
+                barajlar susuzdu
+
+        
+        ### soru gelirse buralardan gelir 
+
+            *** biçimce olumsuz anlamca olumlu
+                [(-1 x -1) = +1]
+
+                bir cümlede olumsuzluk eki\ekleri var mı, yok mu? buna bakılır. olumsuzluk eki ya da ekleri varsa cümle şekilce\biçimce olumsuzdur
+
+                    gör-me-dim san-ma
+                    umut-suz değil-miş
+
+                        bu cümleler biçimce olumsuzdur. ancak bu cümlelerde yüklem gerçekleşmiştir.
+
+                            [(-1 x -1) = +1]
+
+            *** biçimce olumlu anlamca olumsuz 
+                ne... ne...
+                    *bunların %90'ı bu bağlaç ile yapılır
+
+                        ne babası ne amcası döndü
+
+                    *bazen de vurgu yoluyla olur 
+                        sanki maaşımızı o ödüyor
+                            maaşı o ödemiyormuş
+        
+        örnekler:
+
+            proje kusursuzdu
+                biçimce olumsuz
+                anlamca olumsuz
+                    kusur olma işi gerçekleşmemiş
+            
+            ödeci hatasızdı
+                biçimce olumsuz
+                anlamca olumsuz
+                    hata olma işi gerçekleşmemiş
+
+            sesi kötüydü
+                biçimce olumlu
+                anlamca olumlu
+                    kötü olma durumu gerçekleşmiş 
+            
+            sesi kötü değildi 
+                biçimce olumsuz 
+                anlamca olumsuz 
+                    kötü olma durumu gerçekleşmiyor
+            
+            sesi kötü değil sanma
+                biçimce olumsuz
+                anlamca olumlu
+                    kötü olma durumu gerçekleşiyor
+
+    D) YAPI BAKIMINDAN
+    

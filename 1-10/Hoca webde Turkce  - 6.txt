@@ -1,0 +1,48 @@
+ses olayları ile ilgili 100 soru çöz
+
+ses olayları temelde ikiye ayrılıyor:
+
+    ünlü ve ünsüz ses olayları
+
+        ünlü daralması:
+            ağlıyor
+            işliyor
+            söylüyor
+            gelmiyor [olumsuzluk eki daralmış]
+            diyerek / diye 
+
+            yaşıyor
+
+        ünlü türemesi
+            daracık
+            sapasağlam
+
+
+        ünlü düşmesi
+
+            kıvır - ık -> kıvrık
+            yanlış
+            sarı - ar -> sararmak
+            yalnız
+            ileri - le -> ilerle
+            yumurta - la -> yumurtla
+            besi - le -> besle
+            annesi - ile -> annesiyle
+            istiyor - idi -> istiyordu
+
+            *** öğrenci ve dilenci
+
+#####   ses olayları gerçekleşmez ise bu yazım yanlışı vardır deriz
+ama ikilemelerde bu ses olayları gerçekleşmez
+
+    örnek:
+
+    "omuz omza" denmmez yanlıştır, burada "omuz omuza" yazılmalıdır
+    * burun burna değil, burun buruna
+    * şehirden şehre değil, şehirden şehire 
+
+
+#####   geliyor
+        alıyor 
+        koşuyor"""
+        bunlarda herhangi bir ses olayı yok

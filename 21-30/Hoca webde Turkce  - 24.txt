@@ -1,0 +1,21 @@
+SÖZEL MANTIK
+
+https://www.youtube.com/watch?v=t0DR1Z3GRTI
+
+* sözel mantık fulleten 6 taktik:
+
+    ** Taktik 1
+        neyin tablosunu çizeceğiz
+
+        *** iki değişken varsa az olanın tablosu çizilir.
+
+            ali, veli, can, damla, zeynep
+            pantalon, kazak, gömlek
+
+                burada "pantalon, kazak, gömlek" tablosu çizilir.
+
+        *** değişken sayısı 2'den fazla ise;
+
+            biri sabitlenir, diğerleri sol tarafa sınıflandırılır.
+
+            

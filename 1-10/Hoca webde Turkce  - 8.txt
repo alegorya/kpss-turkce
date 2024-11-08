@@ -1,0 +1,49 @@
+sözcükte yapı
+
+*kök mantıklı en küçük parça
+    isim kökü
+    fiil kökü
+
+ekler ikiye ayrılıyor
+yapım ve çekim ekleri
+
+    çekim ekleri
+
+        1) isim hal ekleri (ad durum) ekleri
+            i hali
+            e hali
+            de hali
+            den hali
+        
+        2) iyelik ekleri
+
+            aklımıza "üyelik" gelsin
+            üye olduğunda "aitlik" hali oluşur
+            
+            bir varlığın kavramın kime ait olduğunu
+            kime üye olduğunu belirtir
+
+            bu kalem bana üyedir:
+                benim kalem - im 
+        
+        3) çoğul ekleri
+
+        4) ek eylem
+            idi, imiş, ise, dır/dir
+
+*** kaynaştırma yapı eki değildir
+
+        5) tamlayan (ilgi) ve tamlanan (iyelik) ekler
+
+        6) kip ekleri
+
+        7) kişi ekleri
+            
+            * genelde iyelik ekleri ile karıştırılabiliyor
+                kişi ekleri fiillere gelir
+                iyelik ekleri isimlere gelir
+                fiile gelen kişi ekleri o fiili kimin gerçekleştirdiğini anlatır
+                    geldim -> ben 
+                    geldin -> sen
+ 
+

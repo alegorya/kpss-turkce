@@ -1,0 +1,86 @@
+CÜMLE TÜRLERİ - 2
+
+    D) YAPI BAKIMINDAN
+        1) basit cümle 
+            yüklemi kapat, geriye kalan cümleler isim ise cümle basit cümledir
+
+                örnek:
+
+                bir üst katta kuzenim var.
+
+                çantanın içene sakladım
+
+                en kötü his kuşkuydu
+
+        2) bileşik cümle 
+            yüklemi elimizle kapatalım, eğer en az bir tane daha iş oluş hareket bildiren bir sözcük varsa bu cümle bileşik cümledir.
+
+                sorun çıkacağını sezmişti
+
+                    "çıkacağını" var.
+                
+                duman çıkarsa bildirin bana 
+
+                    "çıkarsa"
+                
+            *** yüklem = temel cümle
+            *** diğer fiiller = yan cümle
+
+            *** yüklemi elimizle kapatalım, kaç tane kaç tane fiil varsa o kadar yan cümle ve yan yargı vardır
+
+                kendi seçtiği ayakkabı ile sahaya çıkıp başardı.
+
+                    1-seçtiği 2- çıkıp 
+                        iki tane yan cümle vardır
+            
+                * şartlı bileşik cümle
+                    yan cümlelerden biri şart sunuyorsa "-se"
+                
+                * girişik bileşik cümle
+                    yan cümlelerden birinde eylemsi varsa olur. sıfat ya da zarf fiil fark etmez
+
+                * iç içe bileşik cümle
+                    müdür "yarın tören var" dedi
+                
+                * ki'li bileşik cümle
+                    yardımını istemedi ki geleyim
+                
+        
+        3) Sıralı cümle
+            birden fazla yüklem var. sıra sıra cümle var.
+
+            birden fazla cümle varsa "sıralı cümle" vardır.
+
+                *sıralı bağımlı cümle
+                    ortak ögeler var.
+                *sıralı bağımsız cümle
+                    hiçbir ortak öge yok
+                        düzenlemeler bitti, matbaa arandı.
+
+        4) bağlı cümle
+            sıralı cümlenin bağlaçlısıdır.
+            ortak öğe yoktur.
+
+                örnek:
+
+                detayları öğrendim ama uzun sürdü
+
+                    burada bu cümleyi "bağlı cümle" yapan "ama" bağlacıdır. eğer "ama" olmasaydı "sıralı bağımsız cümle" olurdu.
+        
+            *** elma ve armutları taşı
+
+                burada bağlaç var, diye bağlı cümle olmaz
+
+        ***  sonbahar, en sevdiğim mevsimdi.
+
+            bu cümle basit cümledir.
+            çünkü bu cümlede yüklem sadece "mevsimdi" kelimesi değildir.
+
+            burada yüklem bir sıfat tamlamasıdır. tamlamalar BÖLÜNEMEDİĞİ için cümlenin yüklemi "en sevdiğim mevsimdi" söz öbeğidir.
+
+            bu yüklemi kapatırsak geriye kalan sadece "sonbahar" sözcüğü olur. yani cümlede iş oluş hareket bildiren sözcük yoktur. 
+
+                *** yani burada "sevdiğim" sözcüğünü görüp atlama sakın.
+
+            
+            

@@ -1,0 +1,294 @@
+YAZIM KURALLARI - 1
+    *** birden fazla kelimeden oluşan sayılar ayrı yazılır
+        on üç
+        sekiz yüz
+        beş bin kırk altı
+        dokuz bin otuz yedi
+        yüz on
+    
+    *** üleştirme sayıları rakamla değil yazıyla yazılır.
+        "3'er" değil, "üçer" olarak yazılır.
+
+    *** BÜYÜK HARFLERİN YAZIMI
+        ** rakamla başlayan cümlelerin devamında küçük harfle devam eder.
+            2018 yılında... (y harfi küçüktür)
+
+        ** kişi adlarından önce ve sonra gelen ünvanlar, saygı sözleri, rütbe adları ve lakaplar büyük harf ile başlar.
+            Vali Hüseyin Bey
+            Dr. Mehmet Öz
+            Sayın Zeynep Ferah
+            Süleyman Efendi
+            Hülya Hanım
+            Binbaşı Fırat
+            Genç Osman
+            Kara Mehmet
+
+        *** Cümle içindeki özel adın yerine kullanılan makam ve ünvan sözleri büyük harfle başlar
+
+            Okulumuza gelen Kaymakam bize övgüler yağdırdı.
+
+        *** Tanrı, Allah, İlah sözleri özel ad olarak kullanılmadıklarında küçük harfle başlar.
+
+            Mitolojik Yunan tanrıları
+            Heykel sanatının ilahı
+            İstanbul'da hırsızların allahı var
+        
+        *** dünya, güneş terimleri gezegen anlamı dışında kullanıdıklarında küçük yazılır.
+            çocuklar güneşte kaldılar.
+        
+        *** yön adları özel isimden önce kullanılırsa büyük, sonra kullanılırsa küçük yazılır
+
+            Kuzey Amerika
+            Amerika'nın kuzeyi
+
+            Doğu Anadolu
+            Anadolu'nun doğusu
+
+        *** dil, din, ırk, mezhep, tarikat adları büyük harfle başlar.
+
+            Müslümanlık
+            Alevilik
+            Kemalizm
+            Atatürkçülük
+            Arapça
+            Avrupalılaşmak
+        
+        *** il, ilçe, belde, bucak, köy vb. sözler küçük yazılır.
+            Manisa ili
+            Turgutlu ilçesi
+            Avşar köyü
+
+        *** Mahalle, meydan, bulvar, cadde, sokak kelimeleri büyük harfle başkar.
+            Şehitler Mahallesi
+            Taksim Meydanı
+            Sakarya Bulvarı
+            Atatürk Caddesi
+
+        ### önceki ikisini şöyle aklında Tut 
+        eğer nüfusu az ise büyük yazılıyor.
+        ama aklında tut, çünkü bu çıkmış sınav sorusu
+
+        
+        *** saray, köşk, han, kale, köprü, kule, anıt vb. büyük yazılır
+
+            Çankaya Köşkü
+            Özgürlük Anıtı
+        
+        *** deniz, nehir, göl, dağ, boğaz vb. isimler büyük yazılır. 
+            Suphi Dağı
+            İstanbul Boğazı 
+            Ege Denizi
+            Gediz Nehri 
+        
+        ### ÖNEMLİ
+            
+            Gemiler Boğaz'dan geçiyorlar.
+                bu doğru. Kaymakam'ı hatırla
+            Ülke liderleri Köşk'te toplandı
+                bu da doğru.
+        
+        *** gazete, dergi, tablo, vb. küçük yazılır
+            Hürriyet gazetesi
+            Varlık gazetesi
+            Mona Lisa tablosu
+
+                "Resmi Gazete"
+                "Milli Gazete"
+
+                    bu yazımlar doğrudur
+        
+        *** cennet, cehennem, sırat köprüsü
+
+
+        *** ulusal, resmi ve dini bayramlarla anma ve kutlama günlerinin adları büyük yazılır.
+
+            Cumhuriyet Bayramı
+            Regaip Kandili
+            Sevgililer Günü
+            Öğretmenler Günü
+
+                "gün" kelimesi
+                "12 Kasım Cuma günü..." durumunda küçük yazılır 
+            
+        *** Tarihi olay, çağ ve dönem adları büyük harfle başlar
+
+            Kurtuluş Savaşı
+            Tunç Devri
+            Orta Çağ 
+            Lale Devri 
+            Cahiliye  Dönemi 
+            Tanzimat Dönemi'nde
+        
+        ### ÖNEMLİ
+
+            Her sene eylülün ortasında gel 
+
+            Toplantı 12 Haziran 2017 Perşembe günü yapılacak.
+
+            Görüşme 28 Ekim'de yapılacak. 
+
+            İzinlerimi çarşamba günlerine ayarladım.
+
+        *** akrabalık bildiren sözcükler küçük yazılır. yalnızca tarihi ve menkıbevi şahıslarda, lakaplarda büyük yazılır. 
+            Gül Baba
+            Susuz Dede
+            Ramiz Dayı
+            Nene Hatun
+            Telli Baba'ya
+        
+        *** yer, millet ve kişi adlarıyla kurulan bileşik kelimelerde sadece özel adlar büyük harfle yazılır.
+            Roma sikkesi
+            Antep fıstığı
+            Brüksel lahanası
+            Hindistan cevizi
+            Van kedisi
+            Osmanlı sarayları
+            Türk edebiyatı
+            Kastamonu evleri
+            Türk lokumu
+            Türk adeti
+            Osmanlı siyaseti
+            Van coğrafyası
+            Van misafirperverliği
+            Ren geyiği
+            Ren iklimi
+            İngiliz anahtarı
+            Antep halkı
+        
+    
+    
+    *** BİTİŞİK YAZILAN KELİMELER 
+
+        ** ses düşmesi varsa bitişik yazılır.
+
+            biri-biri -- birbiri
+            kayın - ana -- kaynana
+            ne - asıl -- nasıl
+            
+        ** et, eyle, ol ... yardımcı fiilleri ile kurulanlarda ilk kelimede bir ses olayı varsa bitişik yazılır.
+            hapsolmak
+            kaybetmek
+            emretmek
+            affetmek
+            darbetmek
+            hissetmek
+            reddetmek
+            sağ olmak
+            var olmak
+            mutlu etmek
+            sefer eylemek
+
+        ** bir veya iki öğesi emir kipi ile kurulan kalıplaşmış kelimeler bitişik yazılır.
+            ateşkes
+            çalçene
+            albeni
+            çekyat
+            kapkaç
+            örtbas
+            tutkal
+            yapboz
+            medcezir
+            verkaç
+            
+        ** ev, hane, zede, sever, perver bitişik yazılır.
+
+
+        ** somut olarak yer bildirmeyen alt, üst ve üzeri sözleri sona getirilse bitişik yazılır.
+
+            olağanüstü
+            bilinçaltı
+            gözaltı (gözetim)
+            akşamüstü
+            gerçeküstü
+            suçüstü
+            akşamüzeri
+            ayaküstü
+
+        ** ara yönleri belirten kelimeler bitişik yazılır 
+            güneybatı
+            güneydoğu
+
+        ** "baş" sözüyle oluşturulan sıfat tamlamaları bitişik yazılır 
+            başsavcı
+            başköşe
+            başbakan
+            başçavuş
+            başkişi
+            başhekim
+            başkahraman
+            başkomutan
+            başöğretmen
+            başparmak
+            başrol
+
+        ** topluluk yöneticisi anlamındaki "baş" sözüyle oluşturulan belirtisiz isim tamlamaları birleşir
+            yüzbaşı
+            aşçıbaşı
+            ustabaşı
+            Binbaşı
+            elebaşı
+            elebaşı
+            onbaşı
+            
+        ### ÖNEMLİ
+
+            * gelenekselleşmiş olan belirsizlik sıfat ve zamirleri birleşir
+
+                biraz
+                birçok 
+                birkaçı
+                birtakım
+                hiçbir
+
+        ###  ÖNEMLİ
+            *** sıfat fiiller sona gelirse bitişik yazılır. 
+
+                cankurtaran
+                çöpçatan
+                basınçölçer
+                değerbilmez
+                külyutmaz
+                çokbilmiş
+                güngörmüş
+                
+        *** ÖNEMLİ 
+            *** ikinci kelimede -dı, -di varsa bitişik yazılır 
+                albastı
+                çıtkırıldım
+                gecekondu
+                hünkarbağendi
+                külbastı
+                şıpsevdi
+
+        ### ÖNEMLİ
+            *** her iki kelimede de -dı veya -r ekleri varsa bitişik yazılır
+                kaptıkaçtı
+                oldubitti
+                konargöçer
+                okuryazar
+                uyurgezer
+                yanardöner
+        
+        ##### EN ÖNEMLİLERİ
+
+            1) emir varsa 
+
+            2) -an, -ar, -az, -mış (sıfat-fiiller) varsa 
+
+            3) ikinci kelimede "-dı, -di" (geçmiş zaman eki) varsa 
+
+            4) her iki kelimede de "-dı,-di" veya "-ar,-er" (geçmiş veya geniş zaman ekleri) varsa 
+
+                BİTİŞİK YAZILIR 
+
+
+        ### ÖNEMLİ
+
+            kelimelerden her ikisi ya da ikincisi anlamını kaybederse bitişik yazılır.
+
+
+
+
+
+            
+

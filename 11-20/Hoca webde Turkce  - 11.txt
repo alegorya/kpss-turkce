@@ -1,0 +1,63 @@
+sözcük türleri 2
+
+    tamlayan(ilgi hali eki) - tamlanan(iyelik eki)
+    tamlamalar takım gibidir, bozulmamalı
+
+    zincirleme isim tamlaması olabilmesi için 
+    en az iki isim tamlaması iç içe geçmeli
+
+        insan beyni - beynin işlevi:
+            insan beyninin işlevi
+        kabak çekirdeği - çekirdeğin içi:
+            kabak çekirdeğinin içi
+        taşın şekli - şeklin garipliği:
+            taşın şeklinin garipliği
+        geminin burnu - burnun deseni:
+            geminin burnunun deseni
+        köy muhtarı - muhtarın evi:
+            köy muhtarının evi
+
+        *** zincirin halkaları gibi düşün
+        halkaları birbirine bastırıp iç içe
+        geçirince zincirleme isim tamlamasına ulaşırız
+
+        ayrı ayrı isim tamlamalarını birbirine
+        geçirilir
+
+    *** burada sıfat tamlamalarına dikkat et.
+
+            çürük ceviz -> nasıl ceviz? - çürük
+            
+            ### "nasıl?" sorusuna cevap geliyorsa
+            o sıfat tamlamasıdır
+
+            örnek: çürük cevizin kabuğu
+            bu söz öbeği zincirleme isim tamlaması olmaz
+            çünkü Z.İ.T için iki ayrı isim tamlaması sıkışmalı
+            burada isim değil, sıfat tamlaması var. bu sebeple
+            Z.İ.T olmaz burada
+
+
+            kalbin enerjisi - yüksek enerji:
+                kalbin yüksek enerjisi (x)
+            derin vadi - keskin soğuk:
+                derin vadinin keskin soğuğu (x)
+
+            *** BURASI ÖNEMLİ
+
+            ormanın ağaçlarının huzuru
+
+            sessiz ormanın asırlık ağaçlarının büyük huzuru
+                burada bu cümle yine Z.İ.T olarak görülebilir
+                zinciri, kolyeyi oluşturduktan sonra sade ya da 
+                süslü şekilde kullanılabilir
+
+            *** sıfatlar ile zincir yapılamaz!
+            ANCAK! zaten bir zincir varsa sıfatların
+            eklenmesi bu zinciri bozmaz
+
+
+        
+
+
+        

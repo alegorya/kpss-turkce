@@ -1,0 +1,32 @@
+zarf tümlecinde önemli nokta yer yön
+zarf tümlecinin bulunmasındadır.
+
+zarf tümlecini bulurken "nere" sorusu sorulur
+eğer "nereye" diye sorarsak bulduğumuz zarf
+tümleci olmaz; dolaylı tümleç olur. çünkü 
+-e hali dolaylı tümleçte olur.
+
+edat tümleci aslında zarf tümlecidir
+"için", "göre" ve "ile" edat tümlecinin işaretidir.
+
+**** Somut olan bir sözcük ile birleşirse edat,
+soyut sözcükler ile birleşirse zarf tümleci olur
+
+konuya kuşkuyla yaklaştı -> zarf tümleci
+arabaya bıçakla bindi -> edat tümleci
+
+dikkat -> zaten edat tümleci de bir zarf tümlecidir
+
+
+örnek cümleler:
+
+***  "o işi yapan kim/ne?"
+
+anılarından sessizce uzaklaşıyordu
+
+ümitlerimi öldürüyor çaresizlik yavaşça
+
+ellerin huzur doldurur yaşamıma hep
+
+
+

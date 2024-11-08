@@ -1,0 +1,23 @@
+PARAGRAF - 1 
+    öncelikle paragrafın teori kısmına bakacağız.
+
+    # ANLATIM BİÇİMLERİ
+        1) betimleme
+            resim çizilir
+        2) öyküleme
+            olaylar gelişir 
+        3) açıklama
+            nesnel bir bilgi aktarımı yapılır.
+        4) tartışma
+            okuyanı bir konuda ikna çabası vardır
+
+        ## ÖNEMLİ
+            betimleme --> fotoğraf
+            öyküleme --> video
+            açıklama --> ders kitabı
+            tartışma --> köşe yazısı
+                (yorum içerir)
+
+        
+        ## "Açıklama" da yorum olmaz. eğer kişisel bir yorum varsa o anlatım biçimi "tartışma"dır.
+

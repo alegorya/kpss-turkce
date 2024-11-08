@@ -1,0 +1,101 @@
+sözcük türleri
+
+isim
+    hal ekleri
+    iyelik ekler
+    tekil adlar
+    çoğul adla
+    somut adlar
+    soyut adla
+    özel adlar
+    topluluk adlar
+    isimlerde küçültme ekleri
+
+*** isim tamlamaları
+    buradan iki soru geliyor
+
+                                 Tamlayan   Tamlanan 
+    a) belirtili isim tamlaması     -ın        -ı  -> sesin şiddeti  
+    b) belirtisiz isim tamlaması      x        -ı  -> ses şiddeti
+
+    örnekler
+
+        geçmişin izleri
+        kum sanatı
+        toprak rengi
+        uzayın derinliği
+        ölüm  korkusu
+        gecenin karanlığı
+
+    **** tamlamanın unsurlarında birisi düşerse 
+    artık ona "isim tamlaması" denmez.
+
+
+    **** isim tamlamalarında Tamlayan ile Tamlanan yer 
+    değiştirebilir
+
+        zaferi bilimin
+        şansı aceminin
+        tavanı ofisin
+
+    **** tamlamalarda ortak paranteze alma mümkündür
+
+        xa+xb+xc = x (a+b+c)
+
+        ekmeğin, suyun, peynirin tadı 
+        ailenin, dostun sözü 
+
+        terasın camları, tahtaları, mermerleri
+        kedinin tüyleri, tırnakları
+
+    **** İSİM TAMLAMALARI CÜMLENİN ÖĞELERİNDE BÖLÜNEMEZLER
+
+        ### ÇOK ÖNEMLİ BİR ÖRNEK 
+
+
+        şirketin düzeni -> belirtili isim tamlaması
+
+
+        ŞİRKET - İN 
+        
+        (her gün binlerce dosyayı tek tek incelememizi
+        istediği, herkesin ilginç bir şekilde hiç sıkıntı yapmadan
+        çalıştığı, patronların ise kendi odalarından asla çıkmadığı
+        ve kimseyle muhatap olmadığı) 
+        
+        DÜZEN - İ bizi şaşırtıyordu.
+
+            yüklem - şaşırtıyordu.
+            şaşırtma işini yapan ne/kim? - ŞİRKETİN ... DÜZENİ    
+
+                isim tamlamaları cümlenin öğelerinde BÖLÜNEMEZLER
+
+
+    **** kişi zamirlerinin tamlayan olduğu durumlar
+    karıştırılabiliyor
+
+        benim derdim -> belirtili isim tamlaması
+        senin görüşün -> belirtili isim tamlaması
+
+    
+    **** tamlanan kelime zamir olabilir
+
+        rakamların bazıları
+        konukların biri
+
+    **** tamlayan eki "-ın" yerine "-den" eki olabilir
+
+        cevaplardan birkaçı
+        aşağıdakilerden hangisi
+
+    **** eğer tamlayan ya da tamlanan
+    düşerse (tamlanan eki de düşebilir) orada "isim tamlaması
+    yoktur" deriz.
+
+        onun onayı lazım -- onayı lazım
+        senin bileğin inceymiş -- bileğin inceymiş
+
+        onun ev yıkılacak (onun ev - i)
+        senin müdür geç kalmış (senin müdür - ün)
+
+            *** bu örneklerde isim tamlaması artık yoktur

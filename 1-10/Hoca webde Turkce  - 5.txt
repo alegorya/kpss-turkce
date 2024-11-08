@@ -1,0 +1,34 @@
+eylemde çatı 2
+
+    işteş ve dönüşlü fiil çatıları da etken fiil çatısı
+    içerisindedir.
+
+        işteş çatı için iş karşılıklı da olabilir GRUP halinde
+        de yapılabilir
+
+        müzikseverler konser alanına doluştu -> grup halinde işteş
+
+    nesne çatısı olarak ettirgen aynı şekilde geçişlinin
+    bir türüdür
+
+oldurgan kısmı karışık çıkmaz ama gene de bil
+
+        eğer cümledeki nesne; o cümledeki fiilin kökünü
+        gerçekleştirebiliyor mu? eğer gerçekleştirebiliyor içerisindedir
+        bu duruma oldurgan deriz
+
+
+
+            örnek:
+            konser alanına onu yürüttük
+
+            bu cümlede "yürüttük" kelimesi yüklemdir.
+            yüklemin kökü "yürü-" kelimesidir.
+            bu cümlede "onu" kelimesi nesnedir.
+
+        ###  O yürüdü  ###
+
+            bu şekle sokabildiğimiz cümleye oldurgan diyoruz
+
+
+

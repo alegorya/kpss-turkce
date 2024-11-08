@@ -1,0 +1,57 @@
+YAZIM KURALLARI - 2
+    * ayrı yazılan sözcükler
+        ** alt, üst, ana, ön, art, arka, iç, dış, peşin sözlerinin başa getirilmesi ile oluşan birleşik kelimeler bitişik yazılır.
+
+            alt yazı 
+            üst küme
+            ana dil
+            ön söz 
+            art niyet
+            arka plan
+            iç tüzük
+            dış hat
+            peşin hüküm
+        
+        ** dış, iç, sıra sözleri ayrı yazılır 
+            olağan dışı
+            sıra dışı
+            çağ dışı
+            şehir içi 
+            hafta içi 
+            yurt içi
+            yanı sıra 
+            aklı sıra 
+            ardı sıra 
+            çevrim içi 
+            yurt içi 
+        
+        ** şey kelimesi daima ayrı yazılır
+
+        ** tıraş, kılavuz, kulüp 
+            bunların doğru yazımı budur.
+
+        
+        ** küçük harfle yapılan kısaltmalar açılarak okunup ek buna göre düzenlenir.
+
+            kg'dan
+            g'a
+            kr'un
+            m**2ye (metrekareye)
+            cm***3e (santimetreküpe)
+
+        ** "Türk Lirası" ifadesinin kısaltması "TL" şeklindedir.
+
+            TL'nin
+            TL'ye
+
+        ### ÖNEMLİ
+
+        ** sonunda nokta bulunan kısaltmalara gelen ekler kesme ile ayrılmaz. ek noktadan sonra, kelimenin okunuşuna uygun olarak yazılır.
+            
+            vb.leri
+            yy.ın 
+            Prof.ün
+            İng.yi 
+            
+
+        

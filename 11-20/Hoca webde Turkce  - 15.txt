@@ -1,0 +1,54 @@
+EYLEMLER - 2
+
+    kip kayması anlatım bozukluğu değildir
+
+    EK EYLEM 
+        -idi, -imiş, -ise, -dır
+            çekim eklerinde ve ses olaylarında vardı. ses düşmesi
+        
+        1) bir ismin sonuna gelir.
+            ismi yüklem yapmayabilir
+                oyuncu sakat-sa oynanasın
+
+        2) fiilin sonuna gelir, bileşik çekim yapar 
+
+            X + -dı
+            X + -miş
+            X + -se 
+
+                yapıyor idi - yapıyordu
+                çevirecek imiş - çevirecekmiş
+                değişir ise - değişirse
+            
+            *** İSTİSNA
+                
+                geliyordu = hikaye
+                geliyormuş = rivayet
+                geliyorsa = koşul
+                
+                geliyordur = ek eylem var
+                            ama ismi yok
+
+
+        *** ek eylemin olumsuzu "değil" ile yapılır
+            öfkeliydi - öfkeli değildi
+
+    EYLEMSİLER (FİİLİMSİLER)
+        1) isim fiil
+            -me, -iş, -mek 
+        2) sıfat fiil
+            -an, -ası, -mez, -ar, -dik, -ecek, -miş 
+        3) zarf fiil
+            geri kalan ekler 
+
+
+        burada ekleri ezberlemeye gerek yok 
+        kocaman paragraf veriyorlar. burada fiilimsileri bulmak için fiil kökü aranır. paragraftaki "çocuk" gibi kelimeleri direkt geçmelisin
+
+        geri kalan kısım doğrudan anlama kalıyor.
+
+        *** eğer sen sıfat ve zarfları iyi bilirsen sırtın yere gelmez
+
+
+
+

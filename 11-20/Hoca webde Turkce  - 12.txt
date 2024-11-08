@@ -1,0 +1,138 @@
+sözcük türleri - 3
+
+### sıfat, zarf ve zamir anlatılacak
+
+!Sıfatlar bir isim ile
+!Zarflar bir fiil ile bağlantıya geçer
+
+    nasıl sorusu ya "miteleme sıfatı" ya da 
+    "durum zarfı" cevabını verir. ikisi arasındaki
+    fark ismi ile mi fiil ile mi bağ kurduğudur
+
+    iyi hava -> "nasıl hava?" -"iyi"      -> sıfat
+    iyi atladı -> "nasıl atladı?" -"iyi"  -> zarf
+
+SIFAT
+    niteleme(nasıl)
+        hızlı sunum
+    belirtme
+        sayı
+            dörtte bir ekmek, üçer şişe
+        işaret
+            şu poşet, öteki dünya
+        belgisiz
+            çoğu yöntem, her gün, bazı kışlar
+        soru
+            hangi ağaç, kaç adam, nasıl kitap
+    
+    sıfatlar isimle bağlantılıdır, ayrıca 
+    anlamı da düşün
+
+
+    adlaşmış sıfat  (ÇOK ÖNEMLİ)
+        NİTELEME sıfatındaki isim düşer ise;
+        sıfat artık tek başına kaldığı için
+        artık kendisi "İSİM" olur
+
+            yaşlı insanlar - yaşlılar
+                adlaşmış sıfat
+            
+
+        BELİRTME sıfatındaki isim düşer ise;
+        sıfat artık tek başına kaldığı için
+        artık kendisi "ZAMİR" olur
+        
+        aynı türden sıfat - zamir değişimi olur
+            bazı insanlar - bazıları (zamir belgisiz)
+            
+        
+
+    Bu soru çok önemli:
+
+        şu tuhaf adam
+
+        yukarıdaki "adam" sözcüğü iki sıfat ile
+        nitelenmiş midir?
+
+        cevap: hayır, "tuhaf" sözcüğü niteleme
+        sıfatıdır ancak "şu" sözcüğü belirtme
+        sıfatıdır. yani "adam" sözcüğünü bir sıfat
+        niteler ve bir sıfat belirtir.
+
+        üç küçük kedi -> yukarıdakinin aynısı
+        bir sıfat nitelemiş, bir sıfat belirtmiş
+
+ZARF
+fiil ile bağlantılıdır
+
+    durum zarfı (nasıl)
+        hızlı içtik, iyi temizledi
+    zaman zarfı(ne zaman)
+        yarın başlayacak
+        şimdi kırmış
+        dün almıştım
+    miktar zarfı(ne kadar)
+        çok bekledik, hiç unutmadım, biraz ağladı
+    yer - yön zarfı (nere -x-)
+        yer-yön zarfı "-i,-e,-de,-den" ekini 
+        almaz, alırsa isim olur
+
+            içeri git -> yer-yön zarfı
+            içeri-ye git -> "içeriye" isim oldu
+    soru zarfı
+        neden kızdın?
+        niye yaptınız?
+        nasıl tanıttı?
+        niçin beklediler?
+    
+    üstünlük-derecelendirme zarfı
+        en
+        daha
+
+ZAMİR
+
+    kişi zamiri
+        ben,sen, o...
+
+    dönüşlülük zamiri
+        kendi
+
+            ben kendim yaptım
+
+            bu cümle anlatım bozukluğu değildir
+            anlamı pekiştirme olarak görülür
+    
+    ilgi zamiri - ilgi eki (-ki)
+        bitişik yazılan ki
+
+        onun notu iyi benim notum kötüydü
+        onun notu iyi benimki kötüydü
+
+        üç tane -ki var
+
+
+        1) ilgi zamiri olan (bitişik)
+            benimki
+        2) sıfat yapan (bitişik)
+            odadaki kedi
+        3) bağlaç olan (ayrı)
+            anlamadım ki yapayım
+        
+    iyelik ekleri, iyelik zamiri olarak da 
+    adlandırılır
+        senin anne - n 
+
+
+    BURASI ÖNEMLİ
+        teknede bir kişilik yer var (sayı sıfatı)
+        kalabalıktan bir adam geldi (belgisiz sıfat)
+
+            sormuşlar bir bilgeye
+                "sormuşlar 718 bilgeye" diyemiyoruz
+                sayı sıfatı olmaz yani
+        
+        bahçede kedi buldu ve onu getirdi
+            buradaki "onu" kişi zamiri DEĞİLDİR
+            işaret zamiridir. insan harici "kişi zamiri"
+            olmaz    
+
